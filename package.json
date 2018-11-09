@@ -1,0 +1,15 @@
+{
+  "name": "theshrink",
+  "version": "1.0.0",
+  "description": "Discord specially made for OneLife challenges.",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UltraStars3000",
+  "license": "ISC"
+}
