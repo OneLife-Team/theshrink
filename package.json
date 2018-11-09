@@ -1,7 +1,7 @@
 {
   "name": "theshrink",
   "version": "1.0.0",
-  "description": "Discord specially made for OneLife challenges.",
+  "description": "Discord bot specially made for OneLife challenges.",
   "main": "main.js",
   "dependencies": {
     "discord.js": "^11.4.2"
