@@ -21,9 +21,9 @@ bot.on('message', message => {
         let messageArray = message.content.split(" ");
         let args = messageArray.slice(1).toString().toLowerCase();
 
-        if (args === "oddysee"){
+        if (args.includes("oddysee")){
             var game = ("Oddysee");
-        } else if (args === "exoddus"){
+        } else if (args.includes("exoddus")){
             var game = ("Exoddus");
         } else {
             if (args === ""){
